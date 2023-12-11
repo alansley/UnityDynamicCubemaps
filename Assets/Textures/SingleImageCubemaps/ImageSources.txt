@@ -1,0 +1,12 @@
+With thanks to the original authors!
+
+- Canyon cubemaps by Paul Bourke.
+  Sourced from: https://paulbourke.net/panorama/cubemaps/
+
+- Spruit Sunrise & Park Bench Panoramas by Greg Zaal.
+  Sourced from:
+        - https://polyhaven.com/a/spruit_sunrise
+        - https://polyhaven.com/a/park_bench
+
+- Interior cubemap by unknown author.
+  Sourced from: https://discourse.threejs.org/t/cubemap-texture-from-single-image/55613

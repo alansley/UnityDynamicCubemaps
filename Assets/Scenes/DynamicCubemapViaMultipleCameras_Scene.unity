@@ -2519,7 +2519,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _gameObjectToDestroy: {fileID: 0}
-  _delayUntilWeDisableThisObjectSecs: 5
+  _delayUntilWeDisableThisObjectSecs: 10
 --- !u!1 &2138120937
 GameObject:
   m_ObjectHideFlags: 0

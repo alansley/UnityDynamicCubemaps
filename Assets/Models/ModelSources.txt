@@ -1,0 +1,5 @@
+- Cow model by Unknown Author (it's pretty much a classic 3D model though so likley non-copyrighted)
+
+- Teapot model by Martin Newell, University of Utah. Some fun reading: https://en.wikipedia.org/wiki/Utah_teapot
+
+- "Alladin's Lamp" (https://skfb.ly/6tPQU) by carrtoonist is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
